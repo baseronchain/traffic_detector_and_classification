@@ -11,11 +11,11 @@ Vehicles are counted when their tracked centroid enters/crosses a horizontal **c
 - Auto device: **CUDA if available**, else CPU
 
 ## Files
-- `main.py` — start GUI app
-- `device_manager.py` — device + load `best.pt`
-- `detector_engine.py` — tracking + counting logic
-- `gui_interface.py` — Tkinter UI
-- `testvideo.py` — quick OpenCV video open test
+- `main.py` - start GUI app
+- `device_manager.py` - device + load `best.pt`
+- `detector_engine.py` - tracking + counting logic
+- `gui_interface.py` - Tkinter UI
+- `testvideo.py` - quick OpenCV video open test
 
 ## Requirements
 Python 3.8+  
