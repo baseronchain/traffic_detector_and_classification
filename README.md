@@ -1,4 +1,4 @@
-````markdown
+markdown
 # YOLOv8 Vehicle Counter (Tkinter GUI)
 
 Simple desktop app to **detect + track + count vehicles** from a video using **Ultralytics YOLOv8** and a **Tkinter GUI**.  
@@ -21,7 +21,7 @@ Vehicles are counted when their tracked centroid enters/crosses a horizontal **c
 Python 3.8+  
 ```bash
 pip install ultralytics torch opencv-python pillow
-````
+
 
 ## Model
 
